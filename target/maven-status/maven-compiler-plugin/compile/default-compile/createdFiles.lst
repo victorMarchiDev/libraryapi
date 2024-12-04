@@ -1,0 +1,3 @@
+com\todolist\libraryapi\Application.class
+com\todolist\libraryapi\config\DatabaseConfiguration.class
+com\todolist\libraryapi\model\Autor.class
